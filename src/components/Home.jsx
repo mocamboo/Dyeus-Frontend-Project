@@ -1,5 +1,4 @@
 import About from "./Home/About";
-import Philosophy from "./Home/Philosophy";
 import WhatMakesUsDifferent from "./Home/WhatMakesUsDifferent";
 import SelfCare from "./Home/SelfCare";
 import TrackYourMood from "./Home/TrackYourMood";
